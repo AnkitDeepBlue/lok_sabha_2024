@@ -177,7 +177,6 @@ def test_total_details(driver):
                 'total': total
             }
 
-    # Calculate sort_from_majority for each party
     for party in data.values():
         party['sort_from_majority'] = majority_seats - party['total']
 

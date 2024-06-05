@@ -19,3 +19,4 @@ class WebScraperHelper:
     def get_element_text(self, locator):
         element = WebDriverWait(self.driver, self.timeout).until(EC.presence_of_element_located(locator))
         return element.text
+
