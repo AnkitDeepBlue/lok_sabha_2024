@@ -1,0 +1,15 @@
+{
+    "state": "Uttar Pradesh",
+    "constituency": "Mirzapur",
+    "winner": {
+        "Name": "ANUPRIYA PATEL",
+        "Total Votes": 471631,
+        "Winning Margin": 37810,
+        "Party": "Apna Dal (Soneylal)"
+    },
+    "looser": {
+        "Name": "RAMESH CHAND BIND",
+        "Total Votes": 433821,
+        "Party": "Samajwadi Party"
+    }
+}

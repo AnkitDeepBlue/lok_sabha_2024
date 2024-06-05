@@ -1,0 +1,268 @@
+{
+    "Bharatiya Janata Party": {
+        "party_abbr": "BJP",
+        "won": 240,
+        "leading": 0,
+        "total": 240,
+        "sort_from_majority": 32
+    },
+    "Indian National Congress": {
+        "party_abbr": "INC",
+        "won": 99,
+        "leading": 0,
+        "total": 99,
+        "sort_from_majority": 173
+    },
+    "Samajwadi Party": {
+        "party_abbr": "SP",
+        "won": 37,
+        "leading": 0,
+        "total": 37,
+        "sort_from_majority": 235
+    },
+    "All India Trinamool Congress": {
+        "party_abbr": "AITC",
+        "won": 29,
+        "leading": 0,
+        "total": 29,
+        "sort_from_majority": 243
+    },
+    "Dravida Munnetra Kazhagam": {
+        "party_abbr": "DMK",
+        "won": 22,
+        "leading": 0,
+        "total": 22,
+        "sort_from_majority": 250
+    },
+    "Telugu Desam": {
+        "party_abbr": "TDP",
+        "won": 16,
+        "leading": 0,
+        "total": 16,
+        "sort_from_majority": 256
+    },
+    "Shiv Sena (Uddhav Balasaheb Thackrey)": {
+        "party_abbr": "SHSUBT",
+        "won": 9,
+        "leading": 0,
+        "total": 9,
+        "sort_from_majority": 263
+    },
+    "Nationalist Congress Party \u2013 Sharadchandra Pawar": {
+        "party_abbr": "NCPSP",
+        "won": 8,
+        "leading": 0,
+        "total": 8,
+        "sort_from_majority": 264
+    },
+    "Shiv Sena": {
+        "party_abbr": "SHS",
+        "won": 7,
+        "leading": 0,
+        "total": 7,
+        "sort_from_majority": 265
+    },
+    "Lok Janshakti Party(Ram Vilas)": {
+        "party_abbr": "LJPRV",
+        "won": 5,
+        "leading": 0,
+        "total": 5,
+        "sort_from_majority": 267
+    },
+    "Yuvajana Sramika Rythu Congress Party": {
+        "party_abbr": "YSRCP",
+        "won": 4,
+        "leading": 0,
+        "total": 4,
+        "sort_from_majority": 268
+    },
+    "Rashtriya Janata Dal": {
+        "party_abbr": "RJD",
+        "won": 4,
+        "leading": 0,
+        "total": 4,
+        "sort_from_majority": 268
+    },
+    "Indian Union Muslim League": {
+        "party_abbr": "IUML",
+        "won": 3,
+        "leading": 0,
+        "total": 3,
+        "sort_from_majority": 269
+    },
+    "Aam Aadmi Party": {
+        "party_abbr": "AAAP",
+        "won": 3,
+        "leading": 0,
+        "total": 3,
+        "sort_from_majority": 269
+    },
+    "Jharkhand Mukti Morcha": {
+        "party_abbr": "JMM",
+        "won": 3,
+        "leading": 0,
+        "total": 3,
+        "sort_from_majority": 269
+    },
+    "Janasena Party": {
+        "party_abbr": "JnP",
+        "won": 2,
+        "leading": 0,
+        "total": 2,
+        "sort_from_majority": 270
+    },
+    "Viduthalai Chiruthaigal Katchi": {
+        "party_abbr": "VCK",
+        "won": 2,
+        "leading": 0,
+        "total": 2,
+        "sort_from_majority": 270
+    },
+    "Communist Party of India": {
+        "party_abbr": "CPI",
+        "won": 2,
+        "leading": 0,
+        "total": 2,
+        "sort_from_majority": 270
+    },
+    "Rashtriya Lok Dal": {
+        "party_abbr": "RLD",
+        "won": 2,
+        "leading": 0,
+        "total": 2,
+        "sort_from_majority": 270
+    },
+    "Jammu & Kashmir National Conference": {
+        "party_abbr": "JKN",
+        "won": 2,
+        "leading": 0,
+        "total": 2,
+        "sort_from_majority": 270
+    },
+    "United People\u2019s Party, Liberal": {
+        "party_abbr": "UPPL",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Asom Gana Parishad": {
+        "party_abbr": "AGP",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Hindustani Awam Morcha (Secular)": {
+        "party_abbr": "HAMS",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Kerala Congress": {
+        "party_abbr": "KEC",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Revolutionary Socialist Party": {
+        "party_abbr": "RSP",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Nationalist Congress Party": {
+        "party_abbr": "NCP",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Voice of the People Party": {
+        "party_abbr": "VOTPP",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Zoram People\u2019s Movement": {
+        "party_abbr": "ZPM",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Shiromani Akali Dal": {
+        "party_abbr": "SAD",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Rashtriya Loktantrik Party": {
+        "party_abbr": "RLTP",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Bharat Adivasi Party": {
+        "party_abbr": "BHRTADVSIP",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Sikkim Krantikari Morcha": {
+        "party_abbr": "SKM",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Marumalarchi Dravida Munnetra Kazhagam": {
+        "party_abbr": "MDMK",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Aazad Samaj Party (Kanshi Ram)": {
+        "party_abbr": "ASPKR",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Apna Dal (Soneylal)": {
+        "party_abbr": "ADAL",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "AJSU Party": {
+        "party_abbr": "AJSUP",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "All India Majlis-E-Ittehadul Muslimeen": {
+        "party_abbr": "AIMIM",
+        "won": 1,
+        "leading": 0,
+        "total": 1,
+        "sort_from_majority": 271
+    },
+    "Independent": {
+        "party_abbr": "IND",
+        "won": 7,
+        "leading": 0,
+        "total": 7,
+        "sort_from_majority": 265
+    }
+}

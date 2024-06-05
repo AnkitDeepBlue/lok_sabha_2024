@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Election Results 2024</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+            font-family: 'Roboto', sans-serif;
+            background-color: #f0f2f5;
+        }
+        .container {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            font-size: 2.5em;
+            margin: 0;
+            color: #333;
+        }
+        table {
+            margin-top: 20px;
+            width: 100%;
+        }
+        th {
+            background-color: #007bff;
+            color: #ffffff;
+            text-align: center;
+        }
+        td {
+            text-align: center;
+            vertical-align: middle;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Election Results</h1>
+        </div>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Party</th>
+                    <th>Abbreviation</th>
+                    <th>Won</th>
+                    <th>Leading</th>
+                    <th>Total</th>
+                    <th>Sort From Majority</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for party_name, details in data.items() %}
+                <tr>
+                    <td>{{ party_name }}</td>
+                    <td>{{ details.party_abbr }}</td>
+                    <td>{{ details.won }}</td>
+                    <td>{{ details.leading }}</td>
+                    <td>{{ details.total }}</td>
+                    <td>{{ details.sort_from_majority }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <div class="footer">
+            &copy; 2024 Election Results | Presented by Ankit Tripathi
+        </div>
+    </div>
+</body>
+</html>
