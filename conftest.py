@@ -7,7 +7,6 @@ from selenium.webdriver.chrome.options import Options
 @pytest.fixture(scope="session")
 def driver():
     options = Options()
-    options.add_argument("--headless")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
@@ -23,15 +22,10 @@ def pytest_addoption(parser):
     parser.addoption("--state", action="store", default="Uttar Pradesh", help="State to scrape")
     parser.addoption("--constituency", action="store", default="Mirzapur", help="Constituency to scrape")
 
-def pytest_addoption(parser):
-    parser.addoption("--state", action="store", default="Uttar Pradesh", help="State to scrape")
-    parser.addoption("--constituency", action="store", default="Mirzapur", help="Constituency to scrape")
-
-
 @pytest.fixture
-def state(request):
+def state_visible_text(request):
     return request.config.getoption("--state")
 
 @pytest.fixture
-def constituency(request):
+def constituency_name(request):
     return request.config.getoption("--constituency")
